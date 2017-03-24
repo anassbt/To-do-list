@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  height: 200px;
+  background-color: skyblue;
+}
+
+.element {
+  width: 100px;
+  height: 200px;
+  background-color: red;
+  margin: 2.5em;
+  display: inline-block;
+}
