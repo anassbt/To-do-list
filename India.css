@@ -63,6 +63,6 @@ ul {
 }
 
 .Leader7 {
-  float: right;
-
+  float: left;
+  margin: 0;
 }
